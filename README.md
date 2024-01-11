@@ -10,7 +10,7 @@ Create object for the Response to test and execute the related API.
 
 Put status code when execution gets complete.
 
-Command to execute: mvn clean
+Command to execute: mvn clean, mvn test
 
 Output will produce in a html format.
 
