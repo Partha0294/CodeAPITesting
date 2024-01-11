@@ -1,17 +1,7 @@
-TestNG with RESTAssured API 
-
-To perform the execution,pass the base url related to API testing.
-
-Call the request using RestAssured has given.
-
-Pass the header and application type to call the request.
-
-Create object for the Response to test and execute the related API.
-
-Put status code when execution gets complete.
-
-Command to execute: mvn clean, mvn test
-
-Output will produce in a html format.
-
-Path for the test result: \workspace-directory\project-name\test-output
+iTunes Search API automation is implemented using RestAssured and TestNG maven project.
+ 
+Please use below steps to execute test cases:
+ 
+1. Clone/Download project
+2. From root folder (/ITunesAPI), execute command - "mvn clean test"
+3. Once the execution is completed, report will be available in path - ITunesAPI/test-output/index.html
