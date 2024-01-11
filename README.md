@@ -14,4 +14,4 @@ Command to execute: mvn clean, mvn test
 
 Output will produce in a html format.
 
-Path for the test result: \ITunesAPI\test-output
+Path for the test result: \workspace-directory\project-name\test-output
